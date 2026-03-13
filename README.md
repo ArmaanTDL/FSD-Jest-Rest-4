@@ -57,6 +57,12 @@ src/
 - React Testing Library
 - Babel
 
+
+## Local Run/Deploy
+
+https://fsd-jest-rest-4.vercel.app/
+<img width="1512" height="739" alt="Screenshot 2026-03-13 at 10 09 31 PM" src="https://github.com/user-attachments/assets/f6e47633-821b-419e-a7dd-c5b4e26f4456" />
+
 ## Original Template
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
